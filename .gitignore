@@ -1,0 +1,38 @@
+# Compiled packages
+*.exe
+*.zip
+*.7z
+
+# Downloaded or installed proprietary binaries
+*.dll
+/DaVinci Resolve/
+/info.txt
+
+# Local development variants (not part of the public repository)
+/web-installer/
+/web-installer-1.1/
+/web-installer-1.1-no-cdn/
+/ВЕРСИИ.md
+/ЭТАЛОН.md
+
+# Local test output and backups
+**/test_dir/
+**/test_unzip/
+**/test_unzip2/
+**/test_unzip_empty_dir/
+**/backups/
+*.bak
+*.part
+
+# NSIS and Windows artifacts
+*.log
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+~$*

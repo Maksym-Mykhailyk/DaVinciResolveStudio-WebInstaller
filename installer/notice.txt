@@ -1,0 +1,1 @@
+This installer downloads and runs the official DaVinci Resolve installer from Blackmagic Design. No additional files are downloaded or replaced after installation.
